@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Development\\UEProj\\Platzhalter\\Source\\Platzhalter\\Platzhalter.Build.cs",
+		"C:\\Development\\UEProj\\Platzhalter\\Source\\Platzhalter.Target.cs",
+		"C:\\Development\\UEProj\\Platzhalter\\Source\\PlatzhalterEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

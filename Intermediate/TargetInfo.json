@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Platzhalter",
+			"Path": "..\\Source\\Platzhalter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PlatzhalterEditor",
+			"Path": "..\\Source\\PlatzhalterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
